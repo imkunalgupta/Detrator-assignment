@@ -1,0 +1,13 @@
+.li {
+  text-decoration: none;
+  color: rgb(72, 72, 73);
+  font-size: 20px;
+}
+span {
+  color: brown;
+  font-size: 22px;
+  font-weight: 700;
+}
+body {
+  background-color: aliceblue;
+}
